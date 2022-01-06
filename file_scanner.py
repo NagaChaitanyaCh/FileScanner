@@ -1,3 +1,9 @@
+'''
+Author : Naga Chaitanya Chintalapudi
+Date : 1/6/2022
+Filename : file_scanner.py
+'''
+
 import hashlib
 import sys
 import requests
